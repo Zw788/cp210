@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Homeworks and Projects for PHYS-UA 210
 
+### Homeworks
 [Homework 1](https://nbviewer.jupyter.org/github/zw788/cp210/blob/master/homeworks/ps-%5B1%5D.ipynb)
 
+### PDF Files
 [ps-[1.4]](https://zw788.github.io/cp210/tex/ps__1_4_.pdf).
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+%```markdown
 Syntax highlighted code block
 
 # Header 1
