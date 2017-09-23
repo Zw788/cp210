@@ -3,6 +3,7 @@
 ##[Home](https://zw788.github.io/cp210/)
 ### **Homeworks**
 [Homework 1](https://nbviewer.jupyter.org/github/zw788/cp210/blob/master/homeworks/ps-%5B1%5D.ipynb)
+[Homework 2](https://nbviewer.jupyter.org/github/zw788/cp210/blob/master/homeworks/Home%2BWork%2B2-%2BZhonghan%2BWang.ipynb)
 
 
 ### **PDF Files**
