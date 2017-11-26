@@ -4,6 +4,7 @@
 ### **Homeworks**
 [Homework 1](https://nbviewer.jupyter.org/github/zw788/cp210/blob/master/homeworks/ps-%5B1%5D.ipynb)
 [Homework 2](https://nbviewer.jupyter.org/github/zw788/cp210/blob/master/homeworks/Home%2BWork%2B2-%2BZhonghan%2BWang.ipynb)
+[Homework 7](https://nbviewer.jupyter.org/github/zw788/cp210/blob/master/homeworks/ps-%5B7%5D.ipynb)
 
 
 ### **PDF Files**
